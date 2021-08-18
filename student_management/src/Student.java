@@ -7,7 +7,7 @@ public class Student {
     private float score2 = 0.0f;
     private float score3 = 0.0f;
     private float score4 = 0.0f;
-    private float mediumScore;
+    private float mediumScore = 0.00f;
 
     public Student() {
     }
@@ -87,3 +87,4 @@ public class Student {
                 + this.getMediumScore() + "\n";
     }
 }
+
