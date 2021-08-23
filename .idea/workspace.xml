@@ -2,18 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b21a0c2c-f509-4159-a742-deac72f4d696" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/student_management/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/student_management/listStudent.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/student_management/out/production/student_management/EnterData.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/student_management/out/production/student_management/FileHandling.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/student_management/out/production/student_management/List.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/student_management/out/production/student_management/SelectionProcessing.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/student_management/out/production/student_management/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/student_management/src/EnterData.java" beforeDir="false" afterPath="$PROJECT_DIR$/student_management/src/data/EnterData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/student_management/src/FileHandling.java" beforeDir="false" afterPath="$PROJECT_DIR$/student_management/src/data/FileHandling.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/student_management/src/List.java" beforeDir="false" afterPath="$PROJECT_DIR$/student_management/src/main/List.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/student_management/src/SelectionProcessing.java" beforeDir="false" afterPath="$PROJECT_DIR$/student_management/src/data/SelectionProcessing.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/student_management/src/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/student_management/src/model/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/listStudent.txt" beforeDir="false" afterPath="$PROJECT_DIR$/student_management/src/data/file/listStudent.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CG_student_management/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CG_student_management/main/List.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CG_student_management/main/List.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/student_management/src/main/List.java" beforeDir="false" afterPath="$PROJECT_DIR$/student_management/src/main/List.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,17 +16,27 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1x7gyhTIsVyWSsgkVUIeyhAAXQk" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Intellij\CodeGymBT\New folder\CG_student_management\student_management\src\data\file" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="List" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -66,5 +68,19 @@
       <updated>1629711797226</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>

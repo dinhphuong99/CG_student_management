@@ -13,7 +13,8 @@ public class List{
 
     public static void main(String[] args){
         ArrayList<Student> listSt;
-        String fileName = "listStudent.txt";
+        String fileName = "D:\\Intellij\\CodeGymBT\\New folder\\" +
+                "CG_student_management\\student_management\\src\\data\\file\\listStudent.txt";
         FileHandling.createFile(fileName);
         listSt = FileHandling.readFile(fileName);
         int choice;
