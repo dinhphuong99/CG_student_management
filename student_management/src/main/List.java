@@ -1,3 +1,10 @@
+package main;
+
+import data.EnterData;
+import data.FileHandling;
+import data.SelectionProcessing;
+import model.Student;
+
 import java.util.ArrayList;
 import java.util.Scanner;
 

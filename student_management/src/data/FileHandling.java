@@ -1,3 +1,7 @@
+package data;
+
+import model.Student;
+
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileWriter;

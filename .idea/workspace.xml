@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b21a0c2c-f509-4159-a742-deac72f4d696" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/student_management/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/student_management/listStudent.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/student_management/out/production/student_management/EnterData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/student_management/out/production/student_management/FileHandling.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/student_management/out/production/student_management/List.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/student_management/out/production/student_management/SelectionProcessing.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/student_management/out/production/student_management/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/student_management/src/EnterData.java" beforeDir="false" afterPath="$PROJECT_DIR$/student_management/src/data/EnterData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/student_management/src/FileHandling.java" beforeDir="false" afterPath="$PROJECT_DIR$/student_management/src/data/FileHandling.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/student_management/src/List.java" beforeDir="false" afterPath="$PROJECT_DIR$/student_management/src/main/List.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/student_management/src/SelectionProcessing.java" beforeDir="false" afterPath="$PROJECT_DIR$/student_management/src/data/SelectionProcessing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/student_management/src/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/student_management/src/model/Student.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1x7gyhTIsVyWSsgkVUIeyhAAXQk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+  </component>
+  <component name="RunManager">
+    <configuration name="List" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.List" />
+      <module name="CG_student_management" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.List" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b21a0c2c-f509-4159-a742-deac72f4d696" name="Default Changelist" comment="" />
+      <created>1629711797226</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1629711797226</updated>
+    </task>
+    <servers />
+  </component>
+</project>
